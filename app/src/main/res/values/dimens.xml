@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_nombre">24sp</dimen>
+    <dimen name="padding_inside">20dp</dimen>
+    <dimen name="text_redes">13sp</dimen>
+</resources>
