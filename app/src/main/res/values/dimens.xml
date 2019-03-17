@@ -2,5 +2,6 @@
 <resources>
     <dimen name="size_nombre">24sp</dimen>
     <dimen name="padding_inside">20dp</dimen>
-    <dimen name="text_redes">13sp</dimen>
+    <dimen name="text_redes2">13sp</dimen>
+    <dimen name="text_redes">12sp</dimen>
 </resources>
